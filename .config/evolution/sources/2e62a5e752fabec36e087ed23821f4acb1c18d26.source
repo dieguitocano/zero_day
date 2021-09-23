@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=dieguito.kano@gmail.com
+Enabled=true
+Parent=e7aec339e0085d7e3aa29385d826a858a3e2137b
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=15406cd313e837f565509f14aaf06b25e409d20b
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=dieguito.kano@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

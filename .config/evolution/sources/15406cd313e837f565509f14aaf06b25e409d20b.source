@@ -1,0 +1,20 @@
+[Data Source]
+DisplayName=dieguito.kano@gmail.com
+Enabled=true
+Parent=e7aec339e0085d7e3aa29385d826a858a3e2137b
+
+[Authentication]
+Host=smtp.gmail.com
+Method=XOAUTH2
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=dieguito.kano@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Mail Transport]
+BackendName=smtp

@@ -1,0 +1,13 @@
+2021/09/23-10:14:12.806 2925 Reusing MANIFEST /home/diegocano/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_listen.tidal.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/23-10:14:12.807 2925 Recovering log #10
+2021/09/23-10:14:12.810 2925 Reusing old log /home/diegocano/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_listen.tidal.com_0.indexeddb.leveldb/000010.log 
+2021/09/23-10:14:15.699 2925 Level-0 table #14: started
+2021/09/23-10:14:15.791 2925 Level-0 table #14: 44392 bytes OK
+2021/09/23-10:14:15.933 2925 Delete type=0 #10
+2021/09/23-10:14:15.934 2925 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 1018 : 1
+2021/09/23-10:14:15.934 2925 Compacting 1@0 + 1@1 files
+2021/09/23-10:14:15.996 2925 Generated table #15@0: 188 keys, 18442 bytes
+2021/09/23-10:14:15.996 2925 Compacted 1@0 + 1@1 files => 18442 bytes
+2021/09/23-10:14:16.137 2925 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/09/23-10:14:16.139 2925 Delete type=2 #14
+2021/09/23-10:14:16.139 2925 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 1018 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

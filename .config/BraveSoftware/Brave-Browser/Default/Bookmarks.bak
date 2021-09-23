@@ -1,0 +1,68 @@
+{
+   "checksum": "9f6072bd66a6624705d0d61b5fb5a230",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13276527853028415",
+            "guid": "3631286c-2b75-4099-93a8-dbb676f034e0",
+            "id": "17",
+            "name": "SG Market",
+            "type": "url",
+            "url": "https://sg.market/en/workspace/investments"
+         }, {
+            "date_added": "13276528019447233",
+            "guid": "0123fa6d-39dd-4d6e-88c4-e12575582526",
+            "id": "18",
+            "name": "Golden Way —",
+            "type": "url",
+            "url": "https://my.goldenway.world/en/user/22135"
+         }, {
+            "date_added": "13276528053932488",
+            "guid": "73a94040-3ef3-4130-a558-34e5c3762990",
+            "id": "19",
+            "name": "TIDAL",
+            "type": "url",
+            "url": "https://listen.tidal.com/"
+         }, {
+            "date_added": "13276570993023717",
+            "guid": "7240aecc-4d9c-4ca5-82ca-0f7342f53359",
+            "id": "21",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13276802310949155",
+            "guid": "bd941651-5f64-4a60-aa0b-db363a4fb157",
+            "id": "23",
+            "name": "Miro ",
+            "type": "url",
+            "url": "https://miro.com/app/"
+         } ],
+         "date_added": "13276527037840153",
+         "date_modified": "13276802310949155",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13276527037840160",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13276527037840164",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

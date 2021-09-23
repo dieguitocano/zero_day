@@ -1,0 +1,33 @@
+2021/09/23-06:50:05.704 3 Reusing MANIFEST /home/diegocano/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2021/09/23-06:50:05.772 3 Recovering log #3
+2021/09/23-06:50:05.877 3 Reusing old log /home/diegocano/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000003.log 
+2021/09/23-07:33:17.410 21 Level-0 table #5: started
+2021/09/23-07:33:17.479 21 Level-0 table #5: 20507 bytes OK
+2021/09/23-07:33:17.568 21 Delete type=0 #3
+2021/09/23-10:17:24.341 79 Level-0 table #7: started
+2021/09/23-10:17:24.411 79 Level-0 table #7: 19187 bytes OK
+2021/09/23-10:17:24.509 79 Delete type=0 #4
+2021/09/23-10:59:52.017 81 Level-0 table #9: started
+2021/09/23-10:59:52.084 81 Level-0 table #9: 13318 bytes OK
+2021/09/23-10:59:52.142 81 Delete type=0 #6
+2021/09/23-11:35:24.311 8d Level-0 table #11: started
+2021/09/23-11:35:24.378 8d Level-0 table #11: 12185 bytes OK
+2021/09/23-11:35:24.448 8d Delete type=0 #8
+2021/09/23-12:41:24.311 9f Level-0 table #13: started
+2021/09/23-12:41:24.379 9f Level-0 table #13: 11230 bytes OK
+2021/09/23-12:41:24.474 9f Delete type=0 #10
+2021/09/23-13:59:45.437 bc Level-0 table #15: started
+2021/09/23-13:59:45.493 bc Level-0 table #15: 11569 bytes OK
+2021/09/23-13:59:45.547 bc Delete type=0 #12
+2021/09/23-13:59:45.549 bc Compacting 4@0 + 1@1 files
+2021/09/23-13:59:45.636 bc Generated table #16@0: 85 keys, 14992 bytes
+2021/09/23-13:59:45.636 bc Compacted 4@0 + 1@1 files => 14992 bytes
+2021/09/23-13:59:45.685 bc compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/09/23-13:59:45.691 bc Delete type=2 #7
+2021/09/23-13:59:45.692 bc Delete type=2 #13
+2021/09/23-13:59:45.692 bc Delete type=2 #15
+2021/09/23-13:59:45.692 bc Delete type=2 #9
+2021/09/23-13:59:45.693 bc Delete type=2 #11
+2021/09/23-14:54:34.054 bc Level-0 table #18: started
+2021/09/23-14:54:34.388 bc Level-0 table #18: 11911 bytes OK
+2021/09/23-14:54:34.718 bc Delete type=0 #14
